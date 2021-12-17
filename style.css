@@ -1,5 +1,5 @@
 body {
-    background: plum;
+    background: rosybrown;
   }
 
 h1 {
@@ -14,8 +14,6 @@ h2 {
     font-size: 20px;
 }
 
-#links {
-    color: chartreuse;
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
+.github, .facebook, .movie, .show, .place, .song {
+   color: red;
 }
